@@ -74,7 +74,7 @@ class Clients extends Component {
                     </Link>
                   </td>
                 </tr>
-              ))}{" "}
+              ))}
             </tbody>
           </table>
         </div>
